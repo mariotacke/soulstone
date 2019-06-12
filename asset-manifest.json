@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/soulstone/static/css/main.493e5448.chunk.css",
+    "main.js": "/soulstone/static/js/main.c53ef637.chunk.js",
+    "runtime~main.js": "/soulstone/static/js/runtime~main.74dd1bde.js",
+    "static/js/2.69f6af12.chunk.js": "/soulstone/static/js/2.69f6af12.chunk.js",
+    "index.html": "/soulstone/index.html",
+    "precache-manifest.f9703de9c044179a0e981b99ce63f8a9.js": "/soulstone/precache-manifest.f9703de9c044179a0e981b99ce63f8a9.js",
+    "service-worker.js": "/soulstone/service-worker.js"
+  }
+}
