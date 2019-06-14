@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/soulstone/static/css/main.493e5448.chunk.css",
-    "main.js": "/soulstone/static/js/main.c53ef637.chunk.js",
+    "main.css": "/soulstone/static/css/main.18288ee7.chunk.css",
+    "main.js": "/soulstone/static/js/main.e72afad7.chunk.js",
     "runtime~main.js": "/soulstone/static/js/runtime~main.74dd1bde.js",
-    "static/js/2.69f6af12.chunk.js": "/soulstone/static/js/2.69f6af12.chunk.js",
+    "static/js/2.2da23a0d.chunk.js": "/soulstone/static/js/2.2da23a0d.chunk.js",
     "index.html": "/soulstone/index.html",
-    "precache-manifest.f9703de9c044179a0e981b99ce63f8a9.js": "/soulstone/precache-manifest.f9703de9c044179a0e981b99ce63f8a9.js",
-    "service-worker.js": "/soulstone/service-worker.js"
+    "precache-manifest.ee1d3c4772aa4ccc7d6d0b923b0a371a.js": "/soulstone/precache-manifest.ee1d3c4772aa4ccc7d6d0b923b0a371a.js",
+    "service-worker.js": "/soulstone/service-worker.js",
+    "static/media/stone-spritesheet.png": "/soulstone/static/media/stone-spritesheet.f76a2746.png"
   }
 }
